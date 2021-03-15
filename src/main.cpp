@@ -15,5 +15,6 @@ Serial.println("Hola1");
 Serial.println("Hola1");
 Serial.println("Hola1");
 Serial.println("Hola1");
-Serial.println("Hola1");
+Serial.println("Hola2");
+Serial.println("Hola2");
 } 
