@@ -13,5 +13,7 @@ void loop() {
 void casa() {
 Serial.println("Hola1");
 Serial.println("Hola2");
-Serial.println("Hola3"); 
+Serial.println("Hola3");
+Serial.println("Hola3");
+Serial.println("Hola4");
 } 
